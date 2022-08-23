@@ -1,3 +1,6 @@
+/*
+    This is a Yasirator (but background part).
+*/
 class ysrator {
     constructor() {}
     search(content) {
